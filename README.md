@@ -1,6 +1,6 @@
 # FAQ - Entorno Docker para Aplicación Web
 
-## 📦 Conceptos Básicos
+## 📦 Conceptos Básicos 
 
 ### ¿Cuál es la diferencia entre una imagen y un contenedor?
 
