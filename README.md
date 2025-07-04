@@ -40,8 +40,7 @@ services:
     networks:
       - backend-network
 
-
-## Extensión del entorno para simular una app completa
+# Extensión del entorno para simular una app completa
 Añadir backend: Incorporar un servicio de aplicación (Node.js, Python, Java) que sirva APIs al frontend.
 
 Balanceador de carga: Usar Nginx o Traefik como reverse proxy para múltiples instancias del frontend/backend.
